@@ -1,6 +1,6 @@
 # 😻 CatSwipe
 
-A mobile-first, swipe-to-like web app for discovering cat pictures powered by the [Cataas API](https://cataas.com/).
+A mobile-first, swipe-to-like web app for discovering cat pictures.
 
 ## Features
 - 🐱 Swipe right to like, left to pass
@@ -11,6 +11,3 @@ A mobile-first, swipe-to-like web app for discovering cat pictures powered by th
 
 ## Live Demo
 [CatSwipe on GitHub Pages](https://foofangkhai.github.io/cat-swipe-app/)
-
-## Tech Stack
-Single-file HTML/CSS/JS — no build step required.
